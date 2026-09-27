@@ -75,17 +75,29 @@ Claude · Codex · Antigravity
 
 ## Selected Projects
 
+### Professional Portfolio & Services Platform
+
+React 19 · TypeScript · Tailwind CSS · Supabase · Vercel
+
+A responsive portfolio and service platform with multilingual support, reusable UI components, API integration, database-backed orders, and performance-focused implementation.
+
+[Repository](https://github.com/maribukh/my-demo-profile) · [Live Demo](https://my-demo-profile.vercel.app)
+
 ### Inventory Management
 
 React · Express · PostgreSQL
 
+Full-stack application for managing inventory and working with structured data.
+
 [Repository](https://github.com/maribukh/inventory-project_ITransition)
 
-### User Management
+### E-Commerce
 
-React · TypeScript · REST API
+Angular 19 · TypeScript
 
-[Repository](https://github.com/maribukh/user-management-app_itransition)
+E-commerce application built with Angular and TypeScript.
+
+[Repository](https://github.com/Ruska-N/Final-Project-BTU)
 
 ### More Projects
 
