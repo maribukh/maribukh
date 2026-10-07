@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a Frontend Developer focused on **React and TypeScript**.
+Frontend Developer focused on **React, Next.js and TypeScript**.
 
 I enjoy turning requirements and designs into responsive, reusable interfaces and working closely with backend developers, QA engineers, designers, and product teams.
 
